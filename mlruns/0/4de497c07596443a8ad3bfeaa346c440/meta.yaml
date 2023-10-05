@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/4de497c07596443a8ad3bfeaa346c440/artifacts
+end_time: 1696506696658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4de497c07596443a8ad3bfeaa346c440
+run_name: receptive-fawn-767
+run_uuid: 4de497c07596443a8ad3bfeaa346c440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506688245
+status: 3
+tags: []
+user_id: Admin

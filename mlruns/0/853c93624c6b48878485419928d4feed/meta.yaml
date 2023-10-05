@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/853c93624c6b48878485419928d4feed/artifacts
+end_time: 1696506358129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 853c93624c6b48878485419928d4feed
+run_name: grandiose-kit-74
+run_uuid: 853c93624c6b48878485419928d4feed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506358013
+status: 4
+tags: []
+user_id: Admin

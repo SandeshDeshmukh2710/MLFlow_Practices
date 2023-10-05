@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/f25cb4253bbe4035801dd439792c6fea/artifacts
+end_time: 1696506551402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f25cb4253bbe4035801dd439792c6fea
+run_name: mysterious-carp-708
+run_uuid: f25cb4253bbe4035801dd439792c6fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506544924
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/ee205e6295f5480d97669c98004b3b23/artifacts
+end_time: 1696506315069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee205e6295f5480d97669c98004b3b23
+run_name: bright-cod-733
+run_uuid: ee205e6295f5480d97669c98004b3b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506315006
+status: 4
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/89b8232cf1c248b8a052b65256734c86/artifacts
+end_time: 1696506295803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89b8232cf1c248b8a052b65256734c86
+run_name: unique-shrike-790
+run_uuid: 89b8232cf1c248b8a052b65256734c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506295716
+status: 4
+tags: []
+user_id: Admin

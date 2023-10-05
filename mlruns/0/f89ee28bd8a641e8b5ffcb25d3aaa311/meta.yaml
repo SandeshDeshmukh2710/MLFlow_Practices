@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/f89ee28bd8a641e8b5ffcb25d3aaa311/artifacts
+end_time: 1696506813416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f89ee28bd8a641e8b5ffcb25d3aaa311
+run_name: delightful-hen-579
+run_uuid: f89ee28bd8a641e8b5ffcb25d3aaa311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506806080
+status: 3
+tags: []
+user_id: Admin

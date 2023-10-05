@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/5a35f53aab6d4c59beb82f465ab92669/artifacts
+end_time: 1696506610493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a35f53aab6d4c59beb82f465ab92669
+run_name: melodic-lamb-385
+run_uuid: 5a35f53aab6d4c59beb82f465ab92669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506605807
+status: 3
+tags: []
+user_id: Admin

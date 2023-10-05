@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/50adf604b190425aa843a5a15be718af/artifacts
+end_time: 1696506576887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50adf604b190425aa843a5a15be718af
+run_name: rumbling-stoat-20
+run_uuid: 50adf604b190425aa843a5a15be718af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506570659
+status: 3
+tags: []
+user_id: Admin

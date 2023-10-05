@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/8e223c7ce2974b8481e8e14e31e640b1/artifacts
+end_time: 1696506272297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e223c7ce2974b8481e8e14e31e640b1
+run_name: secretive-robin-383
+run_uuid: 8e223c7ce2974b8481e8e14e31e640b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506272230
+status: 4
+tags: []
+user_id: Admin

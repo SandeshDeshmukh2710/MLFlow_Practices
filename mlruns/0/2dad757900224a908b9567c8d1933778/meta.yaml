@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/2dad757900224a908b9567c8d1933778/artifacts
+end_time: 1696506406662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dad757900224a908b9567c8d1933778
+run_name: able-flea-694
+run_uuid: 2dad757900224a908b9567c8d1933778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506401825
+status: 3
+tags: []
+user_id: Admin

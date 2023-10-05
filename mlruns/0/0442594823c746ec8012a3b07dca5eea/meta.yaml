@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/0442594823c746ec8012a3b07dca5eea/artifacts
+end_time: 1696506538071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0442594823c746ec8012a3b07dca5eea
+run_name: inquisitive-gull-779
+run_uuid: 0442594823c746ec8012a3b07dca5eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506532922
+status: 3
+tags: []
+user_id: Admin

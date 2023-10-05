@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/42da4f5f30fa4553b4861a6c22617e43/artifacts
+end_time: 1696506431217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42da4f5f30fa4553b4861a6c22617e43
+run_name: exultant-ray-661
+run_uuid: 42da4f5f30fa4553b4861a6c22617e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506431130
+status: 4
+tags: []
+user_id: Admin

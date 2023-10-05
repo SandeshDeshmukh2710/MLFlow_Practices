@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/a691331853cd493dbf873b9526858e99/artifacts
+end_time: 1696506419088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a691331853cd493dbf873b9526858e99
+run_name: sneaky-bird-420
+run_uuid: a691331853cd493dbf873b9526858e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506419017
+status: 4
+tags: []
+user_id: Admin

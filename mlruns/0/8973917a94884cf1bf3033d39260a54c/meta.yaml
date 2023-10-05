@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/8973917a94884cf1bf3033d39260a54c/artifacts
+end_time: 1696506395936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8973917a94884cf1bf3033d39260a54c
+run_name: caring-zebra-465
+run_uuid: 8973917a94884cf1bf3033d39260a54c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506395862
+status: 4
+tags: []
+user_id: Admin

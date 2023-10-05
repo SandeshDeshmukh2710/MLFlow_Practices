@@ -1,0 +1,21 @@
+ 
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore environment-specific files
+.env
+.venv/
+.mlenv/
+.runs_env/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore log and temporary files
+logs/
+tmp/
+
+# Ignore dependencies and virtual environments
+node_modules/
+*.egg-info/

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/98e52860f5f1427995acf0d81e9c11cd/artifacts
+end_time: 1696506309988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98e52860f5f1427995acf0d81e9c11cd
+run_name: rebellious-mare-378
+run_uuid: 98e52860f5f1427995acf0d81e9c11cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506309916
+status: 4
+tags: []
+user_id: Admin

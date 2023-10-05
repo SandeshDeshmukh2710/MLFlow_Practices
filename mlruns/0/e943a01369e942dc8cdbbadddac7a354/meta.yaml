@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/e943a01369e942dc8cdbbadddac7a354/artifacts
+end_time: 1696506741622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e943a01369e942dc8cdbbadddac7a354
+run_name: enthused-horse-913
+run_uuid: e943a01369e942dc8cdbbadddac7a354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506735626
+status: 3
+tags: []
+user_id: Admin

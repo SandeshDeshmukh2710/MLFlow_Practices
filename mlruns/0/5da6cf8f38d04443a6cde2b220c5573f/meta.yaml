@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/5da6cf8f38d04443a6cde2b220c5573f/artifacts
+end_time: 1696506564390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da6cf8f38d04443a6cde2b220c5573f
+run_name: clumsy-mare-861
+run_uuid: 5da6cf8f38d04443a6cde2b220c5573f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506558418
+status: 3
+tags: []
+user_id: Admin

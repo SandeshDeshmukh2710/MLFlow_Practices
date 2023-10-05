@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Data%20Science/MLFlow/Simple_ML_Model/mlruns/0/00ea61eed7cb4e9e82cdfb1e3bcc02d2/artifacts
+end_time: 1696506681194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00ea61eed7cb4e9e82cdfb1e3bcc02d2
+run_name: colorful-mink-808
+run_uuid: 00ea61eed7cb4e9e82cdfb1e3bcc02d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696506674084
+status: 3
+tags: []
+user_id: Admin
